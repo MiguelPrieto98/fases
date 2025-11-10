@@ -1,0 +1,8 @@
+# Maven b
+target/
+
+# VS Code 
+.vscode/
+
+# Java class
+*.class
